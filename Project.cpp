@@ -8,6 +8,7 @@
 #include<stdlib.h>
 using namespace std;
 //headerfile for time
+//hfhjgfhjdgfhjf
 class customer
 {
 	public:
